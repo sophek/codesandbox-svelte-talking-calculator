@@ -228,7 +228,7 @@
   <div class="column">
     <div class="columns">
       <div class="column" style="padding-bottom:20px">
-        <h2>Svelte Talking Calculator</h2>
+        <h2>Svelte Talking Calculator Sandbox</h2>
       </div>
     </div>
     <div class="columns">
